@@ -1,0 +1,331 @@
+ERROR - 2021-04-25 10:52:12 --> Error connecting to the database: No connection could be made because the target machine actively refused it.
+
+CRITICAL - 2021-04-25 10:52:12 --> Unable to connect to the database.
+#0 D:\Project Tugas Akhir\pusbinter\system\Database\BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 D:\Project Tugas Akhir\pusbinter\system\Database\BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 D:\Project Tugas Akhir\pusbinter\app\Models\Auth_m.php(12): CodeIgniter\Database\BaseBuilder->get()
+#3 D:\Project Tugas Akhir\pusbinter\app\Controllers\Auth.php(46): App\Models\Auth_m->login('user', '1234')
+#4 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Auth->login()
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#9 {main}
+ERROR - 2021-04-25 10:52:25 --> Error connecting to the database: No connection could be made because the target machine actively refused it.
+
+CRITICAL - 2021-04-25 10:52:25 --> Unable to connect to the database.
+#0 D:\Project Tugas Akhir\pusbinter\system\Database\BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 D:\Project Tugas Akhir\pusbinter\system\Database\BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 D:\Project Tugas Akhir\pusbinter\app\Models\Auth_m.php(12): CodeIgniter\Database\BaseBuilder->get()
+#3 D:\Project Tugas Akhir\pusbinter\app\Controllers\Auth.php(46): App\Models\Auth_m->login('user', '1234')
+#4 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Auth->login()
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#9 {main}
+ERROR - 2021-04-25 10:52:42 --> Error connecting to the database: No connection could be made because the target machine actively refused it.
+
+CRITICAL - 2021-04-25 10:52:42 --> Unable to connect to the database.
+#0 D:\Project Tugas Akhir\pusbinter\system\Database\BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 D:\Project Tugas Akhir\pusbinter\system\Database\BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 D:\Project Tugas Akhir\pusbinter\app\Models\Auth_m.php(12): CodeIgniter\Database\BaseBuilder->get()
+#3 D:\Project Tugas Akhir\pusbinter\app\Controllers\Auth.php(46): App\Models\Auth_m->login('admin', '1234')
+#4 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Auth->login()
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#9 {main}
+ERROR - 2021-04-25 10:53:44 --> Error connecting to the database: No connection could be made because the target machine actively refused it.
+
+CRITICAL - 2021-04-25 10:53:44 --> Unable to connect to the database.
+#0 D:\Project Tugas Akhir\pusbinter\system\Database\BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 D:\Project Tugas Akhir\pusbinter\system\Database\BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 D:\Project Tugas Akhir\pusbinter\app\Models\Auth_m.php(12): CodeIgniter\Database\BaseBuilder->get()
+#3 D:\Project Tugas Akhir\pusbinter\app\Controllers\Auth.php(46): App\Models\Auth_m->login('user', '1234')
+#4 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Auth->login()
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#9 {main}
+CRITICAL - 2021-04-25 13:28:27 --> syntax error, unexpected '<'
+#0 D:\Project Tugas Akhir\pusbinter\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 D:\Project Tugas Akhir\pusbinter\system\Common.php(1217): CodeIgniter\View\View->render('auth/login', Array, true)
+#2 D:\Project Tugas Akhir\pusbinter\app\Controllers\Auth.php(22): view('auth/login', Array)
+#3 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Auth->index()
+#4 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#8 {main}
+CRITICAL - 2021-04-25 13:37:07 --> syntax error, unexpected 'session' (T_STRING), expecting ',' or ';'
+#0 D:\Project Tugas Akhir\pusbinter\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 D:\Project Tugas Akhir\pusbinter\system\Common.php(1217): CodeIgniter\View\View->render('index', Array, true)
+#2 D:\Project Tugas Akhir\pusbinter\app\Controllers\Home.php(29): view('index', Array)
+#3 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Home->index()
+#4 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#8 {main}
+ERROR - 2021-04-25 19:10:45 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in D:\Project Tugas Akhir\pusbinter\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 D:\Project Tugas Akhir\pusbinter\system\Database\MySQLi\Connection.php(314): mysqli->query('select * from t...')
+#1 D:\Project Tugas Akhir\pusbinter\system\Database\BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute('select * from t...')
+#2 D:\Project Tugas Akhir\pusbinter\system\Database\BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery('select * from t...')
+#3 D:\Project Tugas Akhir\pusbinter\app\Models\Memo_masuk_m.php(30): CodeIgniter\Database\BaseConnection->query('select * from t...')
+#4 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(48): App\Models\Memo_masuk_m->getKTJDiv(Array)
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->getKTJDivisi()
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#7 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#10 {main}
+CRITICAL - 2021-04-25 20:28:38 --> strftime() expects parameter 2 to be int, object given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'strftime() expe...', 'D:\\Project Tuga...', 86, Array)
+#1 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(86): strftime('A d B Y, H:M', Object(DateTime))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->save()
+#3 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#4 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#6 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#7 {main}
+CRITICAL - 2021-04-25 21:01:48 --> strtotime() expects parameter 1 to be string, object given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'strtotime() exp...', 'D:\\Project Tuga...', 86, Array)
+#1 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(86): strtotime(Object(DateTime))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->save()
+#3 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#4 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#6 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#7 {main}
+CRITICAL - 2021-04-25 21:04:20 --> syntax error, unexpected '}'
+#0 D:\Project Tugas Akhir\pusbinter\system\Router\Router.php(170): CodeIgniter\Router\Router->autoRoute('memo_masuk')
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(816): CodeIgniter\Router\Router->handle('memo_masuk')
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#6 {main}
+CRITICAL - 2021-04-25 21:04:31 --> syntax error, unexpected '}'
+#0 D:\Project Tugas Akhir\pusbinter\system\Router\Router.php(170): CodeIgniter\Router\Router->autoRoute('memo_masuk')
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(816): CodeIgniter\Router\Router->handle('memo_masuk')
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#6 {main}
+CRITICAL - 2021-04-25 21:15:46 --> Call to a member function getTimestamp() on string
+#0 D:\Project Tugas Akhir\pusbinter\system\View\View.php(220): include()
+#1 D:\Project Tugas Akhir\pusbinter\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 D:\Project Tugas Akhir\pusbinter\system\Common.php(1217): CodeIgniter\View\View->render('memo_masuk', Array, true)
+#3 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(39): view('memo_masuk', Array)
+#4 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#9 {main}
+CRITICAL - 2021-04-25 21:20:04 --> strftime() expects parameter 2 to be int, string given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'strftime() expe...', 'D:\\Project Tuga...', 95, Array)
+#1 D:\Project Tugas Akhir\pusbinter\app\Views\memo_masuk.php(95): strftime('2021-04-23', '%B %Y')
+#2 D:\Project Tugas Akhir\pusbinter\system\View\View.php(220): include('D:\\Project Tuga...')
+#3 D:\Project Tugas Akhir\pusbinter\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 D:\Project Tugas Akhir\pusbinter\system\Common.php(1217): CodeIgniter\View\View->render('memo_masuk', Array, true)
+#5 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(39): view('memo_masuk', Array)
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#7 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#8 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#10 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#11 {main}
+CRITICAL - 2021-04-25 21:20:25 --> strftime() expects parameter 2 to be int, string given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'strftime() expe...', 'D:\\Project Tuga...', 95, Array)
+#1 D:\Project Tugas Akhir\pusbinter\app\Views\memo_masuk.php(95): strftime('2021-04-23', '%d %B %Y')
+#2 D:\Project Tugas Akhir\pusbinter\system\View\View.php(220): include('D:\\Project Tuga...')
+#3 D:\Project Tugas Akhir\pusbinter\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 D:\Project Tugas Akhir\pusbinter\system\Common.php(1217): CodeIgniter\View\View->render('memo_masuk', Array, true)
+#5 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(39): view('memo_masuk', Array)
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#7 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#8 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#10 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#11 {main}
+CRITICAL - 2021-04-25 21:20:25 --> strftime() expects parameter 2 to be int, string given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'strftime() expe...', 'D:\\Project Tuga...', 95, Array)
+#1 D:\Project Tugas Akhir\pusbinter\app\Views\memo_masuk.php(95): strftime('2021-04-23', '%d %B %Y')
+#2 D:\Project Tugas Akhir\pusbinter\system\View\View.php(220): include('D:\\Project Tuga...')
+#3 D:\Project Tugas Akhir\pusbinter\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 D:\Project Tugas Akhir\pusbinter\system\Common.php(1217): CodeIgniter\View\View->render('memo_masuk', Array, true)
+#5 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(39): view('memo_masuk', Array)
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#7 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#8 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#10 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#11 {main}
+CRITICAL - 2021-04-25 21:20:26 --> strftime() expects parameter 2 to be int, string given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'strftime() expe...', 'D:\\Project Tuga...', 95, Array)
+#1 D:\Project Tugas Akhir\pusbinter\app\Views\memo_masuk.php(95): strftime('2021-04-23', '%d %B %Y')
+#2 D:\Project Tugas Akhir\pusbinter\system\View\View.php(220): include('D:\\Project Tuga...')
+#3 D:\Project Tugas Akhir\pusbinter\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 D:\Project Tugas Akhir\pusbinter\system\Common.php(1217): CodeIgniter\View\View->render('memo_masuk', Array, true)
+#5 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(39): view('memo_masuk', Array)
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#7 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#8 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#10 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#11 {main}
+CRITICAL - 2021-04-25 21:20:36 --> strftime() expects parameter 2 to be int, string given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'strftime() expe...', 'D:\\Project Tuga...', 95, Array)
+#1 D:\Project Tugas Akhir\pusbinter\app\Views\memo_masuk.php(95): strftime('2021-04-23', '%d %B %Y, %H:%M')
+#2 D:\Project Tugas Akhir\pusbinter\system\View\View.php(220): include('D:\\Project Tuga...')
+#3 D:\Project Tugas Akhir\pusbinter\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 D:\Project Tugas Akhir\pusbinter\system\Common.php(1217): CodeIgniter\View\View->render('memo_masuk', Array, true)
+#5 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(39): view('memo_masuk', Array)
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#7 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#8 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#10 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#11 {main}
+CRITICAL - 2021-04-25 21:25:31 --> Call to a member function getTimestamp() on string
+#0 D:\Project Tugas Akhir\pusbinter\system\View\View.php(220): include()
+#1 D:\Project Tugas Akhir\pusbinter\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 D:\Project Tugas Akhir\pusbinter\system\Common.php(1217): CodeIgniter\View\View->render('memo_masuk', Array, true)
+#3 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(39): view('memo_masuk', Array)
+#4 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#9 {main}
+CRITICAL - 2021-04-25 21:26:19 --> Call to a member function get() on string
+#0 D:\Project Tugas Akhir\pusbinter\system\View\View.php(220): include()
+#1 D:\Project Tugas Akhir\pusbinter\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 D:\Project Tugas Akhir\pusbinter\system\Common.php(1217): CodeIgniter\View\View->render('memo_masuk', Array, true)
+#3 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(39): view('memo_masuk', Array)
+#4 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#9 {main}
+CRITICAL - 2021-04-25 21:26:20 --> Call to a member function get() on string
+#0 D:\Project Tugas Akhir\pusbinter\system\View\View.php(220): include()
+#1 D:\Project Tugas Akhir\pusbinter\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 D:\Project Tugas Akhir\pusbinter\system\Common.php(1217): CodeIgniter\View\View->render('memo_masuk', Array, true)
+#3 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(39): view('memo_masuk', Array)
+#4 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#9 {main}
+CRITICAL - 2021-04-25 21:26:21 --> Call to a member function get() on string
+#0 D:\Project Tugas Akhir\pusbinter\system\View\View.php(220): include()
+#1 D:\Project Tugas Akhir\pusbinter\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 D:\Project Tugas Akhir\pusbinter\system\Common.php(1217): CodeIgniter\View\View->render('memo_masuk', Array, true)
+#3 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(39): view('memo_masuk', Array)
+#4 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#9 {main}
+CRITICAL - 2021-04-25 21:27:50 --> strftime() expects parameter 2 to be int, object given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'strftime() expe...', 'D:\\Project Tuga...', 95, Array)
+#1 D:\Project Tugas Akhir\pusbinter\app\Views\memo_masuk.php(95): strftime('%d %B %Y, %H:%M', Object(DateTime))
+#2 D:\Project Tugas Akhir\pusbinter\system\View\View.php(220): include('D:\\Project Tuga...')
+#3 D:\Project Tugas Akhir\pusbinter\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 D:\Project Tugas Akhir\pusbinter\system\Common.php(1217): CodeIgniter\View\View->render('memo_masuk', Array, true)
+#5 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(39): view('memo_masuk', Array)
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#7 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#8 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#10 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#11 {main}
+CRITICAL - 2021-04-25 21:28:51 --> strftime() expects parameter 2 to be int, string given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'strftime() expe...', 'D:\\Project Tuga...', 95, Array)
+#1 D:\Project Tugas Akhir\pusbinter\app\Views\memo_masuk.php(95): strftime('%d %B %Y, %H:%M', 'tgl_diterima')
+#2 D:\Project Tugas Akhir\pusbinter\system\View\View.php(220): include('D:\\Project Tuga...')
+#3 D:\Project Tugas Akhir\pusbinter\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 D:\Project Tugas Akhir\pusbinter\system\Common.php(1217): CodeIgniter\View\View->render('memo_masuk', Array, true)
+#5 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(39): view('memo_masuk', Array)
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#7 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#8 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#10 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#11 {main}
+CRITICAL - 2021-04-25 21:47:40 --> time() expects exactly 0 parameters, 1 given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'time() expects ...', 'D:\\Project Tuga...', 94, Array)
+#1 D:\Project Tugas Akhir\pusbinter\app\Views\memo_masuk.php(94): time('2021-04-23')
+#2 D:\Project Tugas Akhir\pusbinter\system\View\View.php(220): include('D:\\Project Tuga...')
+#3 D:\Project Tugas Akhir\pusbinter\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 D:\Project Tugas Akhir\pusbinter\system\Common.php(1217): CodeIgniter\View\View->render('memo_masuk', Array, true)
+#5 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(39): view('memo_masuk', Array)
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#7 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#8 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#10 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#11 {main}
+CRITICAL - 2021-04-25 22:02:53 --> time() expects exactly 0 parameters, 1 given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'time() expects ...', 'D:\\Project Tuga...', 87, Array)
+#1 D:\Project Tugas Akhir\pusbinter\app\Views\memo_masuk.php(87): time('%A %d %B %Y, %H...')
+#2 D:\Project Tugas Akhir\pusbinter\system\View\View.php(220): include('D:\\Project Tuga...')
+#3 D:\Project Tugas Akhir\pusbinter\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 D:\Project Tugas Akhir\pusbinter\system\Common.php(1217): CodeIgniter\View\View->render('memo_masuk', Array, true)
+#5 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(39): view('memo_masuk', Array)
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#7 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#8 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#10 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#11 {main}
+CRITICAL - 2021-04-25 22:11:33 --> syntax error, unexpected 'strtotime' (T_STRING), expecting ')'
+#0 D:\Project Tugas Akhir\pusbinter\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 D:\Project Tugas Akhir\pusbinter\system\Common.php(1217): CodeIgniter\View\View->render('memo_keluar', Array, true)
+#2 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_keluar.php(39): view('memo_keluar', Array)
+#3 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_keluar->index()
+#4 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_keluar))
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#8 {main}
+CRITICAL - 2021-04-25 22:11:36 --> syntax error, unexpected 'strtotime' (T_STRING), expecting ')'
+#0 D:\Project Tugas Akhir\pusbinter\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 D:\Project Tugas Akhir\pusbinter\system\Common.php(1217): CodeIgniter\View\View->render('memo_keluar', Array, true)
+#2 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_keluar.php(39): view('memo_keluar', Array)
+#3 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_keluar->index()
+#4 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_keluar))
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#8 {main}
+CRITICAL - 2021-04-25 22:11:44 --> syntax error, unexpected 'strtotime' (T_STRING), expecting ')'
+#0 D:\Project Tugas Akhir\pusbinter\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 D:\Project Tugas Akhir\pusbinter\system\Common.php(1217): CodeIgniter\View\View->render('memo_keluar', Array, true)
+#2 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_keluar.php(39): view('memo_keluar', Array)
+#3 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_keluar->index()
+#4 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_keluar))
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#8 {main}
+CRITICAL - 2021-04-25 22:11:45 --> syntax error, unexpected 'strtotime' (T_STRING), expecting ')'
+#0 D:\Project Tugas Akhir\pusbinter\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 D:\Project Tugas Akhir\pusbinter\system\Common.php(1217): CodeIgniter\View\View->render('memo_keluar', Array, true)
+#2 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_keluar.php(39): view('memo_keluar', Array)
+#3 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_keluar->index()
+#4 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_keluar))
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#8 {main}

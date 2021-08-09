@@ -1,0 +1,7 @@
+CRITICAL - 2021-03-02 21:56:56 --> Class 'App\Controllers\Penerjemah_m' not found
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Penerjemah->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penerjemah))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}

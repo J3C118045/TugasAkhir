@@ -1,0 +1,261 @@
+CRITICAL - 2021-03-31 08:51:46 --> Array to string conversion
+#0 D:\Project Tugas Akhir\pusbinter\app\Views\index.php(61): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'D:\\Project Tuga...', 61, Array)
+#1 D:\Project Tugas Akhir\pusbinter\system\View\View.php(220): include('D:\\Project Tuga...')
+#2 D:\Project Tugas Akhir\pusbinter\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\Project Tugas Akhir\pusbinter\system\Common.php(1217): CodeIgniter\View\View->render('index', Array, true)
+#4 D:\Project Tugas Akhir\pusbinter\app\Controllers\Home.php(26): view('index', Array)
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Home->index()
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#10 {main}
+CRITICAL - 2021-03-31 08:59:09 --> Call to undefined method CodeIgniter\View\View::Sectio()
+#0 D:\Project Tugas Akhir\pusbinter\system\View\View.php(220): include()
+#1 D:\Project Tugas Akhir\pusbinter\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 D:\Project Tugas Akhir\pusbinter\system\Common.php(1217): CodeIgniter\View\View->render('memo_masuk', Array, true)
+#3 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(31): view('memo_masuk', Array)
+#4 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#9 {main}
+CRITICAL - 2021-03-31 10:35:38 --> Undefined index: :
+#0 D:\Project Tugas Akhir\pusbinter\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Cell\Coordinate.php(278): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\Project Tuga...', 278, Array)
+#1 D:\Project Tugas Akhir\pusbinter\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Worksheet\Worksheet.php(1380): PhpOffice\PhpSpreadsheet\Cell\Coordinate::columnIndexFromString('A:D')
+#2 D:\Project Tugas Akhir\pusbinter\app\Controllers\Penerjemah.php(194): PhpOffice\PhpSpreadsheet\Worksheet\Worksheet->getColumnDimension('A:D')
+#3 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Penerjemah->exportLabel()
+#4 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penerjemah))
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#8 {main}
+CRITICAL - 2021-03-31 10:36:44 --> Argument 1 passed to PhpOffice\PhpSpreadsheet\Worksheet\ColumnDimension::setWidth() must be of the type float, string given, called in D:\Project Tugas Akhir\pusbinter\app\Controllers\Penerjemah.php on line 192
+#0 D:\Project Tugas Akhir\pusbinter\app\Controllers\Penerjemah.php(192): PhpOffice\PhpSpreadsheet\Worksheet\ColumnDimension->setWidth('auto')
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Penerjemah->exportLabel()
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penerjemah))
+#3 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#6 {main}
+CRITICAL - 2021-03-31 11:01:56 --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-03-31 11:10:01 --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 20971520 bytes)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-03-31 11:14:24 --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 20971520 bytes)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-03-31 11:16:53 --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 20971520 bytes)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-03-31 11:17:38 --> Array to string conversion
+#0 D:\Project Tugas Akhir\pusbinter\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Style\Border.php(221): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'D:\\Project Tuga...', 221, Array)
+#1 D:\Project Tugas Akhir\pusbinter\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Style\Borders.php(402): PhpOffice\PhpSpreadsheet\Style\Border->getHashCode()
+#2 D:\Project Tugas Akhir\pusbinter\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Style\Style.php(617): PhpOffice\PhpSpreadsheet\Style\Borders->getHashCode()
+#3 D:\Project Tugas Akhir\pusbinter\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Style\Style.php(407): PhpOffice\PhpSpreadsheet\Style\Style->getHashCode()
+#4 D:\Project Tugas Akhir\pusbinter\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Style\Style.php(331): PhpOffice\PhpSpreadsheet\Style\Style->applyFromArray(Array, false)
+#5 D:\Project Tugas Akhir\pusbinter\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Style\Border.php(170): PhpOffice\PhpSpreadsheet\Style\Style->applyFromArray(Array)
+#6 D:\Project Tugas Akhir\pusbinter\app\Controllers\Penerjemah.php(245): PhpOffice\PhpSpreadsheet\Style\Border->setBorderStyle(Array)
+#7 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Penerjemah->exportLabel()
+#8 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penerjemah))
+#9 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#11 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#12 {main}
+CRITICAL - 2021-03-31 11:20:46 --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 20971520 bytes)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-03-31 11:22:36 --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 20971520 bytes)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-03-31 11:22:48 --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 20971520 bytes)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-03-31 11:24:23 --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 20971520 bytes)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-03-31 11:26:06 --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 20971520 bytes)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-03-31 11:36:37 --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 20971520 bytes)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-03-31 11:37:39 --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 20971520 bytes)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-03-31 11:38:00 --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 20971520 bytes)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-03-31 15:06:41 --> Undefined index: status
+#0 D:\Project Tugas Akhir\pusbinter\app\Views\templates\footer.php(152): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\Project Tuga...', 152, Array)
+#1 D:\Project Tugas Akhir\pusbinter\system\View\View.php(220): include('D:\\Project Tuga...')
+#2 D:\Project Tugas Akhir\pusbinter\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\Project Tugas Akhir\pusbinter\system\View\View.php(468): CodeIgniter\View\View->render('templates/foote...', NULL, true)
+#4 D:\Project Tugas Akhir\pusbinter\app\Views\templates\navbar.php(54): CodeIgniter\View\View->include('templates/foote...')
+#5 D:\Project Tugas Akhir\pusbinter\system\View\View.php(220): include('D:\\Project Tuga...')
+#6 D:\Project Tugas Akhir\pusbinter\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 D:\Project Tugas Akhir\pusbinter\system\View\View.php(236): CodeIgniter\View\View->render('templates/navba...', Array, true)
+#8 D:\Project Tugas Akhir\pusbinter\system\Common.php(1217): CodeIgniter\View\View->render('index', Array, true)
+#9 D:\Project Tugas Akhir\pusbinter\app\Controllers\Home.php(28): view('index', Array)
+#10 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Home->index()
+#11 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#12 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#14 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#15 {main}
+CRITICAL - 2021-03-31 20:16:22 --> Cannot use object of type stdClass as array
+#0 D:\Project Tugas Akhir\pusbinter\system\View\View.php(220): include()
+#1 D:\Project Tugas Akhir\pusbinter\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 D:\Project Tugas Akhir\pusbinter\system\Common.php(1217): CodeIgniter\View\View->render('memo_masuk', Array, true)
+#3 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(32): view('memo_masuk', Array)
+#4 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#9 {main}
+CRITICAL - 2021-03-31 20:51:29 --> Undefined index: id_divisi_tugas
+#0 D:\Project Tugas Akhir\pusbinter\app\Models\Memo_masuk_m.php(27): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\Project Tuga...', 27, Array)
+#1 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(40): App\Models\Memo_masuk_m->getKTJDiv(Array)
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->getKTJDivisi('1')
+#3 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#4 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#6 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#7 {main}
+CRITICAL - 2021-03-31 20:51:55 --> Undefined index: id_divisi_tugas
+#0 D:\Project Tugas Akhir\pusbinter\app\Models\Memo_masuk_m.php(27): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\Project Tuga...', 27, Array)
+#1 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(40): App\Models\Memo_masuk_m->getKTJDiv(Array)
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->getKTJDivisi('1')
+#3 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#4 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#6 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#7 {main}
+CRITICAL - 2021-03-31 20:53:58 --> Undefined index: id_divisi_tugas
+#0 D:\Project Tugas Akhir\pusbinter\app\Models\Memo_masuk_m.php(27): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\Project Tuga...', 27, Array)
+#1 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(40): App\Models\Memo_masuk_m->getKTJDiv(Array)
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->getKTJDivisi('1')
+#3 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#4 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#6 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#7 {main}
+CRITICAL - 2021-03-31 20:54:04 --> Undefined index: id_divisi_tugas
+#0 D:\Project Tugas Akhir\pusbinter\app\Models\Memo_masuk_m.php(27): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\Project Tuga...', 27, Array)
+#1 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(40): App\Models\Memo_masuk_m->getKTJDiv(Array)
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->getKTJDivisi('2')
+#3 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#4 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#6 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#7 {main}
+CRITICAL - 2021-03-31 20:54:23 --> Undefined index: id_divisi_tugas
+#0 D:\Project Tugas Akhir\pusbinter\app\Models\Memo_masuk_m.php(27): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\Project Tuga...', 27, Array)
+#1 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(40): App\Models\Memo_masuk_m->getKTJDiv(Array)
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->getKTJDivisi('1')
+#3 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#4 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#6 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#7 {main}
+CRITICAL - 2021-03-31 21:24:36 --> Undefined index: id_divisi_tugas
+#0 D:\Project Tugas Akhir\pusbinter\app\Models\Memo_masuk_m.php(27): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\Project Tuga...', 27, Array)
+#1 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(43): App\Models\Memo_masuk_m->getKTJDiv(Array)
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->getKTJDivisi()
+#3 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#4 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#6 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#7 {main}
+CRITICAL - 2021-03-31 21:25:47 --> Undefined index: id_divisi_tugas
+#0 D:\Project Tugas Akhir\pusbinter\app\Models\Memo_masuk_m.php(27): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\Project Tuga...', 27, Array)
+#1 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(43): App\Models\Memo_masuk_m->getKTJDiv(Array)
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->getKTJDivisi()
+#3 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#4 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#6 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#7 {main}
+CRITICAL - 2021-03-31 21:28:55 --> Undefined index: id_divisi_tugas
+#0 D:\Project Tugas Akhir\pusbinter\app\Models\Memo_masuk_m.php(27): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\Project Tuga...', 27, Array)
+#1 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(43): App\Models\Memo_masuk_m->getKTJDiv(Array)
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->getKTJDivisi()
+#3 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#4 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#6 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#7 {main}
+CRITICAL - 2021-03-31 21:40:45 --> Undefined index: id_divisi_tugas
+#0 D:\Project Tugas Akhir\pusbinter\app\Models\Memo_masuk_m.php(27): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\Project Tuga...', 27, Array)
+#1 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(43): App\Models\Memo_masuk_m->getKTJDiv(Array)
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->getKTJDivisi()
+#3 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#4 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#6 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#7 {main}
+CRITICAL - 2021-03-31 21:42:39 --> Undefined index: id_divisi_tugas
+#0 D:\Project Tugas Akhir\pusbinter\app\Models\Memo_masuk_m.php(27): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\Project Tuga...', 27, Array)
+#1 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(43): App\Models\Memo_masuk_m->getKTJDiv(Array)
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->getKTJDivisi()
+#3 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#4 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#6 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#7 {main}
+CRITICAL - 2021-03-31 21:46:35 --> Undefined index: id_divisi_tugas
+#0 D:\Project Tugas Akhir\pusbinter\app\Models\Memo_masuk_m.php(27): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\Project Tuga...', 27, Array)
+#1 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(43): App\Models\Memo_masuk_m->getKTJDiv(Array)
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->getKTJDivisi()
+#3 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#4 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#6 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#7 {main}
+CRITICAL - 2021-03-31 21:49:59 --> Undefined index: id_divisi_tugas
+#0 D:\Project Tugas Akhir\pusbinter\app\Models\Memo_masuk_m.php(27): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\Project Tuga...', 27, Array)
+#1 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(43): App\Models\Memo_masuk_m->getKTJDiv(Array)
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->getKTJDivisi()
+#3 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#4 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#6 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#7 {main}
+CRITICAL - 2021-03-31 22:09:05 --> Cannot use object of type stdClass as array
+#0 D:\Project Tugas Akhir\pusbinter\system\View\View.php(220): include()
+#1 D:\Project Tugas Akhir\pusbinter\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 D:\Project Tugas Akhir\pusbinter\system\Common.php(1217): CodeIgniter\View\View->render('memo_masuk', Array, true)
+#3 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(34): view('memo_masuk', Array)
+#4 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#9 {main}
+CRITICAL - 2021-03-31 22:10:01 --> Cannot use object of type stdClass as array
+#0 D:\Project Tugas Akhir\pusbinter\system\View\View.php(220): include()
+#1 D:\Project Tugas Akhir\pusbinter\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 D:\Project Tugas Akhir\pusbinter\system\Common.php(1217): CodeIgniter\View\View->render('memo_masuk', Array, true)
+#3 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(34): view('memo_masuk', Array)
+#4 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#9 {main}
+CRITICAL - 2021-03-31 22:11:16 --> Undefined property: stdClass::$divisi
+#0 D:\Project Tugas Akhir\pusbinter\app\Views\memo_masuk.php(238): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\Project Tuga...', 238, Array)
+#1 D:\Project Tugas Akhir\pusbinter\system\View\View.php(220): include('D:\\Project Tuga...')
+#2 D:\Project Tugas Akhir\pusbinter\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\Project Tugas Akhir\pusbinter\system\Common.php(1217): CodeIgniter\View\View->render('memo_masuk', Array, true)
+#4 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(34): view('memo_masuk', Array)
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#7 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#10 {main}

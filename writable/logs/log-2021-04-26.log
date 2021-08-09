@@ -1,0 +1,1320 @@
+CRITICAL - 2021-04-26 14:51:13 --> Too few arguments to function App\Models\Memo_masuk_m::getData(), 0 passed in D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php on line 35 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(35): App\Models\Memo_masuk_m->getData()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#3 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#6 {main}
+CRITICAL - 2021-04-26 14:51:17 --> Too few arguments to function App\Models\Memo_masuk_m::getData(), 0 passed in D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php on line 35 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(35): App\Models\Memo_masuk_m->getData()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#3 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#6 {main}
+CRITICAL - 2021-04-26 14:51:21 --> Too few arguments to function App\Models\Memo_masuk_m::getData(), 0 passed in D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php on line 35 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(35): App\Models\Memo_masuk_m->getData()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#3 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#6 {main}
+CRITICAL - 2021-04-26 14:51:28 --> Too few arguments to function App\Models\Memo_masuk_m::getData(), 0 passed in D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php on line 35 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(35): App\Models\Memo_masuk_m->getData()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#3 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#6 {main}
+CRITICAL - 2021-04-26 15:01:26 --> Too few arguments to function App\Models\Memo_masuk_m::getData(), 0 passed in D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php on line 35 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(35): App\Models\Memo_masuk_m->getData()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#3 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#6 {main}
+CRITICAL - 2021-04-26 15:03:22 --> Invalid argument supplied for foreach()
+#0 D:\Project Tugas Akhir\pusbinter\app\Views\memo_masuk.php(72): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'D:\\Project Tuga...', 72, Array)
+#1 D:\Project Tugas Akhir\pusbinter\system\View\View.php(220): include('D:\\Project Tuga...')
+#2 D:\Project Tugas Akhir\pusbinter\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\Project Tugas Akhir\pusbinter\system\Common.php(1217): CodeIgniter\View\View->render('memo_masuk', Array, true)
+#4 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(40): view('memo_masuk', Array)
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#7 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#10 {main}
+CRITICAL - 2021-04-26 15:03:23 --> Invalid argument supplied for foreach()
+#0 D:\Project Tugas Akhir\pusbinter\app\Views\memo_masuk.php(72): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'D:\\Project Tuga...', 72, Array)
+#1 D:\Project Tugas Akhir\pusbinter\system\View\View.php(220): include('D:\\Project Tuga...')
+#2 D:\Project Tugas Akhir\pusbinter\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\Project Tugas Akhir\pusbinter\system\Common.php(1217): CodeIgniter\View\View->render('memo_masuk', Array, true)
+#4 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(40): view('memo_masuk', Array)
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#7 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#10 {main}
+CRITICAL - 2021-04-26 15:03:24 --> Invalid argument supplied for foreach()
+#0 D:\Project Tugas Akhir\pusbinter\app\Views\memo_masuk.php(72): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'D:\\Project Tuga...', 72, Array)
+#1 D:\Project Tugas Akhir\pusbinter\system\View\View.php(220): include('D:\\Project Tuga...')
+#2 D:\Project Tugas Akhir\pusbinter\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\Project Tugas Akhir\pusbinter\system\Common.php(1217): CodeIgniter\View\View->render('memo_masuk', Array, true)
+#4 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(40): view('memo_masuk', Array)
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#7 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#10 {main}
+CRITICAL - 2021-04-26 15:03:24 --> Invalid argument supplied for foreach()
+#0 D:\Project Tugas Akhir\pusbinter\app\Views\memo_masuk.php(72): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'D:\\Project Tuga...', 72, Array)
+#1 D:\Project Tugas Akhir\pusbinter\system\View\View.php(220): include('D:\\Project Tuga...')
+#2 D:\Project Tugas Akhir\pusbinter\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\Project Tugas Akhir\pusbinter\system\Common.php(1217): CodeIgniter\View\View->render('memo_masuk', Array, true)
+#4 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(40): view('memo_masuk', Array)
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#7 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#10 {main}
+CRITICAL - 2021-04-26 15:03:25 --> Invalid argument supplied for foreach()
+#0 D:\Project Tugas Akhir\pusbinter\app\Views\memo_masuk.php(72): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'D:\\Project Tuga...', 72, Array)
+#1 D:\Project Tugas Akhir\pusbinter\system\View\View.php(220): include('D:\\Project Tuga...')
+#2 D:\Project Tugas Akhir\pusbinter\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\Project Tugas Akhir\pusbinter\system\Common.php(1217): CodeIgniter\View\View->render('memo_masuk', Array, true)
+#4 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(40): view('memo_masuk', Array)
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#7 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#10 {main}
+CRITICAL - 2021-04-26 15:03:26 --> Invalid argument supplied for foreach()
+#0 D:\Project Tugas Akhir\pusbinter\app\Views\memo_masuk.php(72): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'D:\\Project Tuga...', 72, Array)
+#1 D:\Project Tugas Akhir\pusbinter\system\View\View.php(220): include('D:\\Project Tuga...')
+#2 D:\Project Tugas Akhir\pusbinter\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\Project Tugas Akhir\pusbinter\system\Common.php(1217): CodeIgniter\View\View->render('memo_masuk', Array, true)
+#4 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(40): view('memo_masuk', Array)
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#7 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#10 {main}
+CRITICAL - 2021-04-26 15:03:26 --> Invalid argument supplied for foreach()
+#0 D:\Project Tugas Akhir\pusbinter\app\Views\memo_masuk.php(72): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'D:\\Project Tuga...', 72, Array)
+#1 D:\Project Tugas Akhir\pusbinter\system\View\View.php(220): include('D:\\Project Tuga...')
+#2 D:\Project Tugas Akhir\pusbinter\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\Project Tugas Akhir\pusbinter\system\Common.php(1217): CodeIgniter\View\View->render('memo_masuk', Array, true)
+#4 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(40): view('memo_masuk', Array)
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#7 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#10 {main}
+CRITICAL - 2021-04-26 15:03:26 --> Invalid argument supplied for foreach()
+#0 D:\Project Tugas Akhir\pusbinter\app\Views\memo_masuk.php(72): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'D:\\Project Tuga...', 72, Array)
+#1 D:\Project Tugas Akhir\pusbinter\system\View\View.php(220): include('D:\\Project Tuga...')
+#2 D:\Project Tugas Akhir\pusbinter\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\Project Tugas Akhir\pusbinter\system\Common.php(1217): CodeIgniter\View\View->render('memo_masuk', Array, true)
+#4 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(40): view('memo_masuk', Array)
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#7 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#10 {main}
+CRITICAL - 2021-04-26 15:03:26 --> Invalid argument supplied for foreach()
+#0 D:\Project Tugas Akhir\pusbinter\app\Views\memo_masuk.php(72): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'D:\\Project Tuga...', 72, Array)
+#1 D:\Project Tugas Akhir\pusbinter\system\View\View.php(220): include('D:\\Project Tuga...')
+#2 D:\Project Tugas Akhir\pusbinter\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\Project Tugas Akhir\pusbinter\system\Common.php(1217): CodeIgniter\View\View->render('memo_masuk', Array, true)
+#4 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(40): view('memo_masuk', Array)
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#7 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#10 {main}
+CRITICAL - 2021-04-26 15:03:26 --> Invalid argument supplied for foreach()
+#0 D:\Project Tugas Akhir\pusbinter\app\Views\memo_masuk.php(72): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'D:\\Project Tuga...', 72, Array)
+#1 D:\Project Tugas Akhir\pusbinter\system\View\View.php(220): include('D:\\Project Tuga...')
+#2 D:\Project Tugas Akhir\pusbinter\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\Project Tugas Akhir\pusbinter\system\Common.php(1217): CodeIgniter\View\View->render('memo_masuk', Array, true)
+#4 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(40): view('memo_masuk', Array)
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#7 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#10 {main}
+CRITICAL - 2021-04-26 15:03:27 --> Invalid argument supplied for foreach()
+#0 D:\Project Tugas Akhir\pusbinter\app\Views\memo_masuk.php(72): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'D:\\Project Tuga...', 72, Array)
+#1 D:\Project Tugas Akhir\pusbinter\system\View\View.php(220): include('D:\\Project Tuga...')
+#2 D:\Project Tugas Akhir\pusbinter\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\Project Tugas Akhir\pusbinter\system\Common.php(1217): CodeIgniter\View\View->render('memo_masuk', Array, true)
+#4 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(40): view('memo_masuk', Array)
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#7 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#10 {main}
+CRITICAL - 2021-04-26 15:03:27 --> Invalid argument supplied for foreach()
+#0 D:\Project Tugas Akhir\pusbinter\app\Views\memo_masuk.php(72): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'D:\\Project Tuga...', 72, Array)
+#1 D:\Project Tugas Akhir\pusbinter\system\View\View.php(220): include('D:\\Project Tuga...')
+#2 D:\Project Tugas Akhir\pusbinter\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\Project Tugas Akhir\pusbinter\system\Common.php(1217): CodeIgniter\View\View->render('memo_masuk', Array, true)
+#4 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(40): view('memo_masuk', Array)
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#7 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#10 {main}
+CRITICAL - 2021-04-26 15:03:28 --> Invalid argument supplied for foreach()
+#0 D:\Project Tugas Akhir\pusbinter\app\Views\memo_masuk.php(72): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'D:\\Project Tuga...', 72, Array)
+#1 D:\Project Tugas Akhir\pusbinter\system\View\View.php(220): include('D:\\Project Tuga...')
+#2 D:\Project Tugas Akhir\pusbinter\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\Project Tugas Akhir\pusbinter\system\Common.php(1217): CodeIgniter\View\View->render('memo_masuk', Array, true)
+#4 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(40): view('memo_masuk', Array)
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#7 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#10 {main}
+CRITICAL - 2021-04-26 15:03:28 --> Invalid argument supplied for foreach()
+#0 D:\Project Tugas Akhir\pusbinter\app\Views\memo_masuk.php(72): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'D:\\Project Tuga...', 72, Array)
+#1 D:\Project Tugas Akhir\pusbinter\system\View\View.php(220): include('D:\\Project Tuga...')
+#2 D:\Project Tugas Akhir\pusbinter\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\Project Tugas Akhir\pusbinter\system\Common.php(1217): CodeIgniter\View\View->render('memo_masuk', Array, true)
+#4 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(40): view('memo_masuk', Array)
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#7 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#10 {main}
+CRITICAL - 2021-04-26 15:12:10 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:12:11 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:12:12 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:12:12 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:13:35 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:13:36 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:13:37 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:13:37 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:13:37 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:38:18 --> Too few arguments to function App\Models\Memo_masuk_m::getData(), 0 passed in D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php on line 35 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(35): App\Models\Memo_masuk_m->getData()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#3 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#6 {main}
+CRITICAL - 2021-04-26 15:40:23 --> Object of class stdClass could not be converted to string
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-04-26 15:40:24 --> Object of class stdClass could not be converted to string
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-04-26 15:40:24 --> Object of class stdClass could not be converted to string
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-04-26 15:40:24 --> Object of class stdClass could not be converted to string
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-04-26 15:42:42 --> Too few arguments to function App\Models\Memo_masuk_m::getData(), 0 passed in D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php on line 35 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(35): App\Models\Memo_masuk_m->getData()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#3 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#6 {main}
+CRITICAL - 2021-04-26 15:42:43 --> Too few arguments to function App\Models\Memo_masuk_m::getData(), 0 passed in D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php on line 35 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(35): App\Models\Memo_masuk_m->getData()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#3 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#6 {main}
+CRITICAL - 2021-04-26 15:42:44 --> Too few arguments to function App\Models\Memo_masuk_m::getData(), 0 passed in D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php on line 35 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(35): App\Models\Memo_masuk_m->getData()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#3 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#6 {main}
+CRITICAL - 2021-04-26 15:43:31 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:43:31 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:43:32 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:43:32 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:43:54 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:43:55 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:43:55 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:43:55 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:43:55 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:43:56 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:43:56 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:43:56 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:43:56 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:43:56 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:43:56 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:43:57 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:44:10 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:44:10 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:44:11 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:44:11 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:44:11 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:44:11 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:44:11 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:45:42 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:45:42 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:45:42 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:45:42 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:45:43 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:45:43 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:45:43 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:45:43 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:45:43 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:45:43 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:45:44 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:45:44 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:45:44 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:45:44 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:45:44 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:53:37 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:53:38 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:53:38 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:53:38 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:53:38 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:53:38 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:53:38 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:53:39 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:53:39 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:55:34 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:55:35 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:55:35 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:55:35 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:55:35 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:55:35 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:55:35 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:55:36 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:55:36 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:55:36 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:55:40 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:56:10 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:56:11 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:56:11 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:56:38 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:56:39 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:56:39 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:56:39 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:56:40 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:56:40 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:56:40 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:56:40 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:56:40 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:56:40 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:56:41 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:56:41 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:56:41 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:56:41 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:56:41 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:56:41 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:56:42 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:56:42 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:56:42 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:56:42 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:56:42 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:56:43 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:57:51 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:57:52 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 15:57:52 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 16:47:39 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 16:48:05 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 17:09:49 --> Function name must be a string
+#0 D:\Project Tugas Akhir\pusbinter\app\Controllers\Laporan_masuk.php(31): App\Models\Memo_masuk_m->laporan_m()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Laporan_masuk->index()
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan_masuk))
+#3 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#6 {main}
+CRITICAL - 2021-04-26 17:11:19 --> Function name must be a string
+#0 D:\Project Tugas Akhir\pusbinter\app\Controllers\Laporan_masuk.php(31): App\Models\Memo_masuk_m->laporan_m()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Laporan_masuk->index()
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan_masuk))
+#3 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#6 {main}
+CRITICAL - 2021-04-26 20:13:45 --> Too few arguments to function App\Models\Memo_masuk_m::getData(), 0 passed in D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php on line 37 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(37): App\Models\Memo_masuk_m->getData()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#3 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#6 {main}
+CRITICAL - 2021-04-26 20:14:13 --> Too few arguments to function App\Models\Memo_masuk_m::getData(), 0 passed in D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php on line 37 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(37): App\Models\Memo_masuk_m->getData()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#3 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#6 {main}
+CRITICAL - 2021-04-26 20:17:00 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 20:17:12 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 20:26:41 --> Too few arguments to function App\Models\Memo_masuk_m::getData(), 0 passed in D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php on line 37 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(37): App\Models\Memo_masuk_m->getData()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#3 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#6 {main}
+CRITICAL - 2021-04-26 20:27:04 --> Too few arguments to function App\Models\Memo_masuk_m::getData(), 0 passed in D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php on line 37 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(37): App\Models\Memo_masuk_m->getData()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#3 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#6 {main}
+CRITICAL - 2021-04-26 20:27:05 --> Too few arguments to function App\Models\Memo_masuk_m::getData(), 0 passed in D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php on line 37 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(37): App\Models\Memo_masuk_m->getData()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#3 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#6 {main}
+CRITICAL - 2021-04-26 20:31:36 --> Too few arguments to function App\Models\Memo_masuk_m::getData(), 0 passed in D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php on line 37 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(37): App\Models\Memo_masuk_m->getData()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#3 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#6 {main}
+CRITICAL - 2021-04-26 20:31:36 --> Too few arguments to function App\Models\Memo_masuk_m::getData(), 0 passed in D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php on line 37 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(37): App\Models\Memo_masuk_m->getData()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#3 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#6 {main}
+CRITICAL - 2021-04-26 20:31:46 --> Too few arguments to function App\Models\Memo_masuk_m::getData(), 0 passed in D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php on line 37 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(37): App\Models\Memo_masuk_m->getData()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#3 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#6 {main}
+CRITICAL - 2021-04-26 20:33:24 --> Too few arguments to function App\Models\Memo_masuk_m::getData(), 0 passed in D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php on line 37 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(37): App\Models\Memo_masuk_m->getData()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#3 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#6 {main}
+CRITICAL - 2021-04-26 20:33:25 --> Too few arguments to function App\Models\Memo_masuk_m::getData(), 0 passed in D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php on line 37 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(37): App\Models\Memo_masuk_m->getData()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#3 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#6 {main}
+CRITICAL - 2021-04-26 20:34:37 --> Too few arguments to function App\Models\Memo_masuk_m::getData(), 0 passed in D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php on line 37 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(37): App\Models\Memo_masuk_m->getData()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#3 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#6 {main}
+CRITICAL - 2021-04-26 20:34:38 --> Too few arguments to function App\Models\Memo_masuk_m::getData(), 0 passed in D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php on line 37 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(37): App\Models\Memo_masuk_m->getData()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#3 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#6 {main}
+CRITICAL - 2021-04-26 20:34:38 --> Too few arguments to function App\Models\Memo_masuk_m::getData(), 0 passed in D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php on line 37 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(37): App\Models\Memo_masuk_m->getData()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#3 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#6 {main}
+CRITICAL - 2021-04-26 20:49:39 --> Too few arguments to function App\Models\Memo_masuk_m::getData(), 0 passed in D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php on line 37 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(37): App\Models\Memo_masuk_m->getData()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#3 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#6 {main}
+CRITICAL - 2021-04-26 20:49:40 --> Too few arguments to function App\Models\Memo_masuk_m::getData(), 0 passed in D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php on line 37 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(37): App\Models\Memo_masuk_m->getData()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#3 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#6 {main}
+CRITICAL - 2021-04-26 20:53:05 --> You must set the database table to be used with your query.
+#0 D:\Project Tugas Akhir\pusbinter\system\Model.php(615): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 D:\Project Tugas Akhir\pusbinter\system\Model.php(834): CodeIgniter\Model->builder()
+#2 D:\Project Tugas Akhir\pusbinter\app\Models\Memo_masuk_m.php(10): CodeIgniter\Model->__call('get', Array)
+#3 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(37): App\Models\Memo_masuk_m->getData()
+#4 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#9 {main}
+CRITICAL - 2021-04-26 20:53:06 --> You must set the database table to be used with your query.
+#0 D:\Project Tugas Akhir\pusbinter\system\Model.php(615): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 D:\Project Tugas Akhir\pusbinter\system\Model.php(834): CodeIgniter\Model->builder()
+#2 D:\Project Tugas Akhir\pusbinter\app\Models\Memo_masuk_m.php(10): CodeIgniter\Model->__call('get', Array)
+#3 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(37): App\Models\Memo_masuk_m->getData()
+#4 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#9 {main}
+CRITICAL - 2021-04-26 20:53:09 --> You must set the database table to be used with your query.
+#0 D:\Project Tugas Akhir\pusbinter\system\Model.php(615): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 D:\Project Tugas Akhir\pusbinter\system\Model.php(834): CodeIgniter\Model->builder()
+#2 D:\Project Tugas Akhir\pusbinter\app\Models\Memo_masuk_m.php(10): CodeIgniter\Model->__call('get', Array)
+#3 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(37): App\Models\Memo_masuk_m->getData()
+#4 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#9 {main}
+CRITICAL - 2021-04-26 20:57:48 --> Too few arguments to function App\Models\Memo_masuk_m::getData(), 0 passed in D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php on line 37 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(37): App\Models\Memo_masuk_m->getData()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#3 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#6 {main}
+CRITICAL - 2021-04-26 20:57:49 --> Too few arguments to function App\Models\Memo_masuk_m::getData(), 0 passed in D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php on line 37 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(37): App\Models\Memo_masuk_m->getData()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#3 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#6 {main}
+CRITICAL - 2021-04-26 20:58:02 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 20:58:03 --> Too few arguments to function App\Controllers\Memo_masuk::index(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-04-26 21:00:30 --> You must set the database table to be used with your query.
+#0 D:\Project Tugas Akhir\pusbinter\system\Model.php(615): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 D:\Project Tugas Akhir\pusbinter\system\Model.php(791): CodeIgniter\Model->builder()
+#2 D:\Project Tugas Akhir\pusbinter\app\Models\Memo_masuk_m.php(10): CodeIgniter\Model->__get('requuest')
+#3 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(37): App\Models\Memo_masuk_m->getData()
+#4 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#9 {main}
+CRITICAL - 2021-04-26 21:00:31 --> You must set the database table to be used with your query.
+#0 D:\Project Tugas Akhir\pusbinter\system\Model.php(615): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 D:\Project Tugas Akhir\pusbinter\system\Model.php(791): CodeIgniter\Model->builder()
+#2 D:\Project Tugas Akhir\pusbinter\app\Models\Memo_masuk_m.php(10): CodeIgniter\Model->__get('requuest')
+#3 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(37): App\Models\Memo_masuk_m->getData()
+#4 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#9 {main}
+CRITICAL - 2021-04-26 21:00:32 --> You must set the database table to be used with your query.
+#0 D:\Project Tugas Akhir\pusbinter\system\Model.php(615): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 D:\Project Tugas Akhir\pusbinter\system\Model.php(791): CodeIgniter\Model->builder()
+#2 D:\Project Tugas Akhir\pusbinter\app\Models\Memo_masuk_m.php(10): CodeIgniter\Model->__get('requuest')
+#3 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(37): App\Models\Memo_masuk_m->getData()
+#4 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#9 {main}
+CRITICAL - 2021-04-26 21:00:32 --> You must set the database table to be used with your query.
+#0 D:\Project Tugas Akhir\pusbinter\system\Model.php(615): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 D:\Project Tugas Akhir\pusbinter\system\Model.php(791): CodeIgniter\Model->builder()
+#2 D:\Project Tugas Akhir\pusbinter\app\Models\Memo_masuk_m.php(10): CodeIgniter\Model->__get('requuest')
+#3 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(37): App\Models\Memo_masuk_m->getData()
+#4 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#9 {main}
+CRITICAL - 2021-04-26 21:00:32 --> You must set the database table to be used with your query.
+#0 D:\Project Tugas Akhir\pusbinter\system\Model.php(615): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 D:\Project Tugas Akhir\pusbinter\system\Model.php(791): CodeIgniter\Model->builder()
+#2 D:\Project Tugas Akhir\pusbinter\app\Models\Memo_masuk_m.php(10): CodeIgniter\Model->__get('requuest')
+#3 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(37): App\Models\Memo_masuk_m->getData()
+#4 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#9 {main}
+CRITICAL - 2021-04-26 21:00:54 --> You must set the database table to be used with your query.
+#0 D:\Project Tugas Akhir\pusbinter\system\Model.php(615): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 D:\Project Tugas Akhir\pusbinter\system\Model.php(791): CodeIgniter\Model->builder()
+#2 D:\Project Tugas Akhir\pusbinter\app\Models\Memo_masuk_m.php(10): CodeIgniter\Model->__get('request')
+#3 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(37): App\Models\Memo_masuk_m->getData()
+#4 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#9 {main}
+CRITICAL - 2021-04-26 21:00:55 --> You must set the database table to be used with your query.
+#0 D:\Project Tugas Akhir\pusbinter\system\Model.php(615): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 D:\Project Tugas Akhir\pusbinter\system\Model.php(791): CodeIgniter\Model->builder()
+#2 D:\Project Tugas Akhir\pusbinter\app\Models\Memo_masuk_m.php(10): CodeIgniter\Model->__get('request')
+#3 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(37): App\Models\Memo_masuk_m->getData()
+#4 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#9 {main}
+CRITICAL - 2021-04-26 21:00:56 --> You must set the database table to be used with your query.
+#0 D:\Project Tugas Akhir\pusbinter\system\Model.php(615): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 D:\Project Tugas Akhir\pusbinter\system\Model.php(791): CodeIgniter\Model->builder()
+#2 D:\Project Tugas Akhir\pusbinter\app\Models\Memo_masuk_m.php(10): CodeIgniter\Model->__get('request')
+#3 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(37): App\Models\Memo_masuk_m->getData()
+#4 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#9 {main}
+CRITICAL - 2021-04-26 21:00:56 --> You must set the database table to be used with your query.
+#0 D:\Project Tugas Akhir\pusbinter\system\Model.php(615): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 D:\Project Tugas Akhir\pusbinter\system\Model.php(791): CodeIgniter\Model->builder()
+#2 D:\Project Tugas Akhir\pusbinter\app\Models\Memo_masuk_m.php(10): CodeIgniter\Model->__get('request')
+#3 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(37): App\Models\Memo_masuk_m->getData()
+#4 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#9 {main}
+CRITICAL - 2021-04-26 21:01:02 --> You must set the database table to be used with your query.
+#0 D:\Project Tugas Akhir\pusbinter\system\Model.php(615): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 D:\Project Tugas Akhir\pusbinter\system\Model.php(791): CodeIgniter\Model->builder()
+#2 D:\Project Tugas Akhir\pusbinter\app\Models\Memo_masuk_m.php(10): CodeIgniter\Model->__get('request')
+#3 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(37): App\Models\Memo_masuk_m->getData()
+#4 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#9 {main}
+CRITICAL - 2021-04-26 21:01:03 --> You must set the database table to be used with your query.
+#0 D:\Project Tugas Akhir\pusbinter\system\Model.php(615): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 D:\Project Tugas Akhir\pusbinter\system\Model.php(791): CodeIgniter\Model->builder()
+#2 D:\Project Tugas Akhir\pusbinter\app\Models\Memo_masuk_m.php(10): CodeIgniter\Model->__get('request')
+#3 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(37): App\Models\Memo_masuk_m->getData()
+#4 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#9 {main}
+CRITICAL - 2021-04-26 21:01:03 --> You must set the database table to be used with your query.
+#0 D:\Project Tugas Akhir\pusbinter\system\Model.php(615): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 D:\Project Tugas Akhir\pusbinter\system\Model.php(791): CodeIgniter\Model->builder()
+#2 D:\Project Tugas Akhir\pusbinter\app\Models\Memo_masuk_m.php(10): CodeIgniter\Model->__get('request')
+#3 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(37): App\Models\Memo_masuk_m->getData()
+#4 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#9 {main}
+CRITICAL - 2021-04-26 21:01:03 --> You must set the database table to be used with your query.
+#0 D:\Project Tugas Akhir\pusbinter\system\Model.php(615): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 D:\Project Tugas Akhir\pusbinter\system\Model.php(791): CodeIgniter\Model->builder()
+#2 D:\Project Tugas Akhir\pusbinter\app\Models\Memo_masuk_m.php(10): CodeIgniter\Model->__get('request')
+#3 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(37): App\Models\Memo_masuk_m->getData()
+#4 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#9 {main}
+CRITICAL - 2021-04-26 21:01:03 --> You must set the database table to be used with your query.
+#0 D:\Project Tugas Akhir\pusbinter\system\Model.php(615): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 D:\Project Tugas Akhir\pusbinter\system\Model.php(791): CodeIgniter\Model->builder()
+#2 D:\Project Tugas Akhir\pusbinter\app\Models\Memo_masuk_m.php(10): CodeIgniter\Model->__get('request')
+#3 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(37): App\Models\Memo_masuk_m->getData()
+#4 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#9 {main}
+CRITICAL - 2021-04-26 21:01:23 --> You must set the database table to be used with your query.
+#0 D:\Project Tugas Akhir\pusbinter\system\Model.php(615): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 D:\Project Tugas Akhir\pusbinter\system\Model.php(791): CodeIgniter\Model->builder()
+#2 D:\Project Tugas Akhir\pusbinter\app\Models\Memo_masuk_m.php(10): CodeIgniter\Model->__get('request')
+#3 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(37): App\Models\Memo_masuk_m->getData()
+#4 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#9 {main}
+CRITICAL - 2021-04-26 21:01:24 --> You must set the database table to be used with your query.
+#0 D:\Project Tugas Akhir\pusbinter\system\Model.php(615): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 D:\Project Tugas Akhir\pusbinter\system\Model.php(791): CodeIgniter\Model->builder()
+#2 D:\Project Tugas Akhir\pusbinter\app\Models\Memo_masuk_m.php(10): CodeIgniter\Model->__get('request')
+#3 D:\Project Tugas Akhir\pusbinter\app\Controllers\Memo_masuk.php(37): App\Models\Memo_masuk_m->getData()
+#4 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Memo_masuk->index()
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Memo_masuk))
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#9 {main}

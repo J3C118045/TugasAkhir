@@ -1,0 +1,117 @@
+CRITICAL - 2021-03-25 14:52:24 --> Undefined index: waktu_update
+#0 D:\Project Tugas Akhir\pusbinter\app\Views\usulan.php(69): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\Project Tuga...', 69, Array)
+#1 D:\Project Tugas Akhir\pusbinter\system\View\View.php(220): include('D:\\Project Tuga...')
+#2 D:\Project Tugas Akhir\pusbinter\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\Project Tugas Akhir\pusbinter\system\Common.php(1217): CodeIgniter\View\View->render('usulan', Array, true)
+#4 D:\Project Tugas Akhir\pusbinter\app\Controllers\Usulan.php(25): view('usulan', Array)
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Usulan->index()
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usulan))
+#7 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#10 {main}
+CRITICAL - 2021-03-25 14:53:11 --> Undefined index: waktu_update
+#0 D:\Project Tugas Akhir\pusbinter\app\Views\usulan.php(69): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\Project Tuga...', 69, Array)
+#1 D:\Project Tugas Akhir\pusbinter\system\View\View.php(220): include('D:\\Project Tuga...')
+#2 D:\Project Tugas Akhir\pusbinter\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\Project Tugas Akhir\pusbinter\system\Common.php(1217): CodeIgniter\View\View->render('usulan', Array, true)
+#4 D:\Project Tugas Akhir\pusbinter\app\Controllers\Usulan.php(25): view('usulan', Array)
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Usulan->index()
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usulan))
+#7 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#10 {main}
+CRITICAL - 2021-03-25 14:53:12 --> Undefined index: waktu_update
+#0 D:\Project Tugas Akhir\pusbinter\app\Views\usulan.php(69): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\Project Tuga...', 69, Array)
+#1 D:\Project Tugas Akhir\pusbinter\system\View\View.php(220): include('D:\\Project Tuga...')
+#2 D:\Project Tugas Akhir\pusbinter\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\Project Tugas Akhir\pusbinter\system\Common.php(1217): CodeIgniter\View\View->render('usulan', Array, true)
+#4 D:\Project Tugas Akhir\pusbinter\app\Controllers\Usulan.php(25): view('usulan', Array)
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Usulan->index()
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usulan))
+#7 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#10 {main}
+CRITICAL - 2021-03-25 15:06:22 --> time() expects exactly 0 parameters, 1 given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'time() expects ...', 'D:\\Project Tuga...', 46, Array)
+#1 D:\Project Tugas Akhir\pusbinter\app\Controllers\Usulan.php(46): time('H-m-s')
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Usulan->save()
+#3 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usulan))
+#4 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#6 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#7 {main}
+CRITICAL - 2021-03-25 15:09:16 --> time() expects exactly 0 parameters, 1 given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'time() expects ...', 'D:\\Project Tuga...', 67, Array)
+#1 D:\Project Tugas Akhir\pusbinter\app\Controllers\Usulan.php(67): time('H-m-s')
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Usulan->update()
+#3 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usulan))
+#4 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#6 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#7 {main}
+CRITICAL - 2021-03-25 15:09:53 --> time() expects exactly 0 parameters, 1 given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'time() expects ...', 'D:\\Project Tuga...', 67, Array)
+#1 D:\Project Tugas Akhir\pusbinter\app\Controllers\Usulan.php(67): time('H-m-s')
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Usulan->update()
+#3 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usulan))
+#4 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#6 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#7 {main}
+CRITICAL - 2021-03-25 15:10:08 --> time() expects exactly 0 parameters, 1 given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'time() expects ...', 'D:\\Project Tuga...', 67, Array)
+#1 D:\Project Tugas Akhir\pusbinter\app\Controllers\Usulan.php(67): time('H-i-s')
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Usulan->update()
+#3 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usulan))
+#4 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#6 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#7 {main}
+CRITICAL - 2021-03-25 15:14:27 --> time() expects exactly 0 parameters, 1 given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'time() expects ...', 'D:\\Project Tuga...', 67, Array)
+#1 D:\Project Tugas Akhir\pusbinter\app\Controllers\Usulan.php(67): time('H:i')
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Usulan->update()
+#3 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usulan))
+#4 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#6 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#7 {main}
+CRITICAL - 2021-03-25 15:21:46 --> time() expects exactly 0 parameters, 1 given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'time() expects ...', 'D:\\Project Tuga...', 67, Array)
+#1 D:\Project Tugas Akhir\pusbinter\app\Controllers\Usulan.php(67): time('H:i:s')
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Usulan->update()
+#3 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usulan))
+#4 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#6 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#7 {main}
+CRITICAL - 2021-03-25 15:26:01 --> time() expects exactly 0 parameters, 1 given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'time() expects ...', 'D:\\Project Tuga...', 67, Array)
+#1 D:\Project Tugas Akhir\pusbinter\app\Controllers\Usulan.php(67): time('H:i:s')
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Usulan->update()
+#3 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usulan))
+#4 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#6 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#7 {main}
+CRITICAL - 2021-03-25 15:26:18 --> time() expects exactly 0 parameters, 1 given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'time() expects ...', 'D:\\Project Tuga...', 67, Array)
+#1 D:\Project Tugas Akhir\pusbinter\app\Controllers\Usulan.php(67): time('H:m:s')
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Usulan->update()
+#3 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usulan))
+#4 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#6 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#7 {main}
+CRITICAL - 2021-03-25 15:26:51 --> time() expects exactly 0 parameters, 1 given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'time() expects ...', 'D:\\Project Tuga...', 67, Array)
+#1 D:\Project Tugas Akhir\pusbinter\app\Controllers\Usulan.php(67): time('H-m-s')
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Usulan->update()
+#3 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usulan))
+#4 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#6 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#7 {main}

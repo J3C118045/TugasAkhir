@@ -1,0 +1,383 @@
+CRITICAL - 2021-03-23 02:18:57 --> Array to string conversion
+#0 D:\Project Tugas Akhir\pusbinter\app\Views\usulan.php(78): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'D:\\Project Tuga...', 78, Array)
+#1 D:\Project Tugas Akhir\pusbinter\system\View\View.php(220): include('D:\\Project Tuga...')
+#2 D:\Project Tugas Akhir\pusbinter\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\Project Tugas Akhir\pusbinter\system\Common.php(1217): CodeIgniter\View\View->render('usulan', Array, true)
+#4 D:\Project Tugas Akhir\pusbinter\app\Controllers\Usulan.php(25): view('usulan', Array)
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Usulan->index()
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usulan))
+#7 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#10 {main}
+CRITICAL - 2021-03-23 02:19:11 --> syntax error, unexpected 'echo' (T_ECHO)
+#0 D:\Project Tugas Akhir\pusbinter\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 D:\Project Tugas Akhir\pusbinter\system\Common.php(1217): CodeIgniter\View\View->render('usulan', Array, true)
+#2 D:\Project Tugas Akhir\pusbinter\app\Controllers\Usulan.php(25): view('usulan', Array)
+#3 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Usulan->index()
+#4 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usulan))
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#8 {main}
+CRITICAL - 2021-03-23 02:57:39 --> Undefined variable: link
+#0 D:\Project Tugas Akhir\pusbinter\app\Views\usulan.php(78): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\Project Tuga...', 78, Array)
+#1 D:\Project Tugas Akhir\pusbinter\system\View\View.php(220): include('D:\\Project Tuga...')
+#2 D:\Project Tugas Akhir\pusbinter\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\Project Tugas Akhir\pusbinter\system\Common.php(1217): CodeIgniter\View\View->render('usulan', Array, true)
+#4 D:\Project Tugas Akhir\pusbinter\app\Controllers\Usulan.php(25): view('usulan', Array)
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Usulan->index()
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usulan))
+#7 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#10 {main}
+CRITICAL - 2021-03-23 03:10:49 --> Undefined index: link
+#0 D:\Project Tugas Akhir\pusbinter\app\Views\usulan.php(226): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\Project Tuga...', 226, Array)
+#1 D:\Project Tugas Akhir\pusbinter\system\View\View.php(220): include('D:\\Project Tuga...')
+#2 D:\Project Tugas Akhir\pusbinter\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\Project Tugas Akhir\pusbinter\system\Common.php(1217): CodeIgniter\View\View->render('usulan', Array, true)
+#4 D:\Project Tugas Akhir\pusbinter\app\Controllers\Usulan.php(25): view('usulan', Array)
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Usulan->index()
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usulan))
+#7 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#10 {main}
+CRITICAL - 2021-03-23 03:10:57 --> Undefined index: link
+#0 D:\Project Tugas Akhir\pusbinter\app\Views\usulan.php(226): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\Project Tuga...', 226, Array)
+#1 D:\Project Tugas Akhir\pusbinter\system\View\View.php(220): include('D:\\Project Tuga...')
+#2 D:\Project Tugas Akhir\pusbinter\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\Project Tugas Akhir\pusbinter\system\Common.php(1217): CodeIgniter\View\View->render('usulan', Array, true)
+#4 D:\Project Tugas Akhir\pusbinter\app\Controllers\Usulan.php(25): view('usulan', Array)
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Usulan->index()
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usulan))
+#7 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#10 {main}
+CRITICAL - 2021-03-23 03:11:06 --> Undefined index: link
+#0 D:\Project Tugas Akhir\pusbinter\app\Views\usulan.php(226): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\Project Tuga...', 226, Array)
+#1 D:\Project Tugas Akhir\pusbinter\system\View\View.php(220): include('D:\\Project Tuga...')
+#2 D:\Project Tugas Akhir\pusbinter\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\Project Tugas Akhir\pusbinter\system\Common.php(1217): CodeIgniter\View\View->render('usulan', Array, true)
+#4 D:\Project Tugas Akhir\pusbinter\app\Controllers\Usulan.php(25): view('usulan', Array)
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Usulan->index()
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usulan))
+#7 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#10 {main}
+CRITICAL - 2021-03-23 03:15:34 --> Undefined index: link
+#0 D:\Project Tugas Akhir\pusbinter\app\Views\usulan.php(226): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\Project Tuga...', 226, Array)
+#1 D:\Project Tugas Akhir\pusbinter\system\View\View.php(220): include('D:\\Project Tuga...')
+#2 D:\Project Tugas Akhir\pusbinter\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\Project Tugas Akhir\pusbinter\system\Common.php(1217): CodeIgniter\View\View->render('usulan', Array, true)
+#4 D:\Project Tugas Akhir\pusbinter\app\Controllers\Usulan.php(25): view('usulan', Array)
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Usulan->index()
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usulan))
+#7 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#10 {main}
+CRITICAL - 2021-03-23 03:17:36 --> Undefined index: link
+#0 D:\Project Tugas Akhir\pusbinter\app\Views\usulan.php(226): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\Project Tuga...', 226, Array)
+#1 D:\Project Tugas Akhir\pusbinter\system\View\View.php(220): include('D:\\Project Tuga...')
+#2 D:\Project Tugas Akhir\pusbinter\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\Project Tugas Akhir\pusbinter\system\Common.php(1217): CodeIgniter\View\View->render('usulan', Array, true)
+#4 D:\Project Tugas Akhir\pusbinter\app\Controllers\Usulan.php(25): view('usulan', Array)
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Usulan->index()
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usulan))
+#7 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#10 {main}
+CRITICAL - 2021-03-23 03:17:37 --> Undefined index: link
+#0 D:\Project Tugas Akhir\pusbinter\app\Views\usulan.php(226): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\Project Tuga...', 226, Array)
+#1 D:\Project Tugas Akhir\pusbinter\system\View\View.php(220): include('D:\\Project Tuga...')
+#2 D:\Project Tugas Akhir\pusbinter\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\Project Tugas Akhir\pusbinter\system\Common.php(1217): CodeIgniter\View\View->render('usulan', Array, true)
+#4 D:\Project Tugas Akhir\pusbinter\app\Controllers\Usulan.php(25): view('usulan', Array)
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Usulan->index()
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usulan))
+#7 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#10 {main}
+CRITICAL - 2021-03-23 03:17:38 --> Undefined index: link
+#0 D:\Project Tugas Akhir\pusbinter\app\Views\usulan.php(226): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\Project Tuga...', 226, Array)
+#1 D:\Project Tugas Akhir\pusbinter\system\View\View.php(220): include('D:\\Project Tuga...')
+#2 D:\Project Tugas Akhir\pusbinter\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\Project Tugas Akhir\pusbinter\system\Common.php(1217): CodeIgniter\View\View->render('usulan', Array, true)
+#4 D:\Project Tugas Akhir\pusbinter\app\Controllers\Usulan.php(25): view('usulan', Array)
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Usulan->index()
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usulan))
+#7 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#10 {main}
+CRITICAL - 2021-03-23 03:17:40 --> Undefined index: link
+#0 D:\Project Tugas Akhir\pusbinter\app\Views\usulan.php(226): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\Project Tuga...', 226, Array)
+#1 D:\Project Tugas Akhir\pusbinter\system\View\View.php(220): include('D:\\Project Tuga...')
+#2 D:\Project Tugas Akhir\pusbinter\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\Project Tugas Akhir\pusbinter\system\Common.php(1217): CodeIgniter\View\View->render('usulan', Array, true)
+#4 D:\Project Tugas Akhir\pusbinter\app\Controllers\Usulan.php(25): view('usulan', Array)
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Usulan->index()
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usulan))
+#7 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#10 {main}
+CRITICAL - 2021-03-23 03:18:37 --> Undefined index: link
+#0 D:\Project Tugas Akhir\pusbinter\app\Views\usulan.php(226): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\Project Tuga...', 226, Array)
+#1 D:\Project Tugas Akhir\pusbinter\system\View\View.php(220): include('D:\\Project Tuga...')
+#2 D:\Project Tugas Akhir\pusbinter\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\Project Tugas Akhir\pusbinter\system\Common.php(1217): CodeIgniter\View\View->render('usulan', Array, true)
+#4 D:\Project Tugas Akhir\pusbinter\app\Controllers\Usulan.php(25): view('usulan', Array)
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Usulan->index()
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usulan))
+#7 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#10 {main}
+CRITICAL - 2021-03-23 03:18:39 --> Undefined index: link
+#0 D:\Project Tugas Akhir\pusbinter\app\Views\usulan.php(226): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\Project Tuga...', 226, Array)
+#1 D:\Project Tugas Akhir\pusbinter\system\View\View.php(220): include('D:\\Project Tuga...')
+#2 D:\Project Tugas Akhir\pusbinter\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\Project Tugas Akhir\pusbinter\system\Common.php(1217): CodeIgniter\View\View->render('usulan', Array, true)
+#4 D:\Project Tugas Akhir\pusbinter\app\Controllers\Usulan.php(25): view('usulan', Array)
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Usulan->index()
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usulan))
+#7 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#10 {main}
+CRITICAL - 2021-03-23 03:18:58 --> Undefined index: status
+#0 D:\Project Tugas Akhir\pusbinter\app\Views\usulan.php(232): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\Project Tuga...', 232, Array)
+#1 D:\Project Tugas Akhir\pusbinter\system\View\View.php(220): include('D:\\Project Tuga...')
+#2 D:\Project Tugas Akhir\pusbinter\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\Project Tugas Akhir\pusbinter\system\Common.php(1217): CodeIgniter\View\View->render('usulan', Array, true)
+#4 D:\Project Tugas Akhir\pusbinter\app\Controllers\Usulan.php(25): view('usulan', Array)
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Usulan->index()
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usulan))
+#7 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#10 {main}
+CRITICAL - 2021-03-23 03:19:41 --> Undefined index: status
+#0 D:\Project Tugas Akhir\pusbinter\app\Views\usulan.php(226): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\Project Tuga...', 226, Array)
+#1 D:\Project Tugas Akhir\pusbinter\system\View\View.php(220): include('D:\\Project Tuga...')
+#2 D:\Project Tugas Akhir\pusbinter\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\Project Tugas Akhir\pusbinter\system\Common.php(1217): CodeIgniter\View\View->render('usulan', Array, true)
+#4 D:\Project Tugas Akhir\pusbinter\app\Controllers\Usulan.php(25): view('usulan', Array)
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Usulan->index()
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usulan))
+#7 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#10 {main}
+CRITICAL - 2021-03-23 03:19:42 --> Undefined index: status
+#0 D:\Project Tugas Akhir\pusbinter\app\Views\usulan.php(226): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\Project Tuga...', 226, Array)
+#1 D:\Project Tugas Akhir\pusbinter\system\View\View.php(220): include('D:\\Project Tuga...')
+#2 D:\Project Tugas Akhir\pusbinter\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\Project Tugas Akhir\pusbinter\system\Common.php(1217): CodeIgniter\View\View->render('usulan', Array, true)
+#4 D:\Project Tugas Akhir\pusbinter\app\Controllers\Usulan.php(25): view('usulan', Array)
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Usulan->index()
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usulan))
+#7 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#10 {main}
+CRITICAL - 2021-03-23 03:20:47 --> Undefined index: status
+#0 D:\Project Tugas Akhir\pusbinter\app\Views\usulan.php(223): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\Project Tuga...', 223, Array)
+#1 D:\Project Tugas Akhir\pusbinter\system\View\View.php(220): include('D:\\Project Tuga...')
+#2 D:\Project Tugas Akhir\pusbinter\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\Project Tugas Akhir\pusbinter\system\Common.php(1217): CodeIgniter\View\View->render('usulan', Array, true)
+#4 D:\Project Tugas Akhir\pusbinter\app\Controllers\Usulan.php(25): view('usulan', Array)
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Usulan->index()
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usulan))
+#7 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#10 {main}
+CRITICAL - 2021-03-23 03:20:48 --> Undefined index: status
+#0 D:\Project Tugas Akhir\pusbinter\app\Views\usulan.php(223): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\Project Tuga...', 223, Array)
+#1 D:\Project Tugas Akhir\pusbinter\system\View\View.php(220): include('D:\\Project Tuga...')
+#2 D:\Project Tugas Akhir\pusbinter\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\Project Tugas Akhir\pusbinter\system\Common.php(1217): CodeIgniter\View\View->render('usulan', Array, true)
+#4 D:\Project Tugas Akhir\pusbinter\app\Controllers\Usulan.php(25): view('usulan', Array)
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Usulan->index()
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usulan))
+#7 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#10 {main}
+CRITICAL - 2021-03-23 03:21:18 --> Undefined index: status
+#0 D:\Project Tugas Akhir\pusbinter\app\Views\usulan.php(223): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\Project Tuga...', 223, Array)
+#1 D:\Project Tugas Akhir\pusbinter\system\View\View.php(220): include('D:\\Project Tuga...')
+#2 D:\Project Tugas Akhir\pusbinter\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\Project Tugas Akhir\pusbinter\system\Common.php(1217): CodeIgniter\View\View->render('usulan', Array, true)
+#4 D:\Project Tugas Akhir\pusbinter\app\Controllers\Usulan.php(25): view('usulan', Array)
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Usulan->index()
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usulan))
+#7 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#10 {main}
+CRITICAL - 2021-03-23 03:21:20 --> Undefined index: status
+#0 D:\Project Tugas Akhir\pusbinter\app\Views\usulan.php(223): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\Project Tuga...', 223, Array)
+#1 D:\Project Tugas Akhir\pusbinter\system\View\View.php(220): include('D:\\Project Tuga...')
+#2 D:\Project Tugas Akhir\pusbinter\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\Project Tugas Akhir\pusbinter\system\Common.php(1217): CodeIgniter\View\View->render('usulan', Array, true)
+#4 D:\Project Tugas Akhir\pusbinter\app\Controllers\Usulan.php(25): view('usulan', Array)
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Usulan->index()
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usulan))
+#7 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#10 {main}
+CRITICAL - 2021-03-23 03:22:17 --> Undefined index: id_penerjemah
+#0 D:\Project Tugas Akhir\pusbinter\app\Views\usulan.php(248): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\Project Tuga...', 248, Array)
+#1 D:\Project Tugas Akhir\pusbinter\system\View\View.php(220): include('D:\\Project Tuga...')
+#2 D:\Project Tugas Akhir\pusbinter\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\Project Tugas Akhir\pusbinter\system\Common.php(1217): CodeIgniter\View\View->render('usulan', Array, true)
+#4 D:\Project Tugas Akhir\pusbinter\app\Controllers\Usulan.php(25): view('usulan', Array)
+#5 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Usulan->index()
+#6 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usulan))
+#7 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#10 {main}
+CRITICAL - 2021-03-23 03:26:15 --> Too few arguments to function App\Controllers\Usulan::update(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Usulan->update()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usulan))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-03-23 03:27:18 --> Too few arguments to function App\Controllers\Usulan::update(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Usulan->update()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usulan))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-03-23 03:29:23 --> Too few arguments to function App\Controllers\Usulan::update(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Usulan->update()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usulan))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-03-23 03:29:42 --> Too few arguments to function App\Controllers\Usulan::update(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Usulan->update()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usulan))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-03-23 03:31:32 --> Too few arguments to function App\Controllers\Usulan::update(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Usulan->update()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usulan))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-03-23 03:31:41 --> Too few arguments to function App\Controllers\Usulan::update(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Usulan->update()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usulan))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-03-23 22:49:34 --> Undefined index: nama_divisi
+#0 D:\Project Tugas Akhir\pusbinter\app\Controllers\Auth.php(51): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\Project Tuga...', 51, Array)
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Auth->login()
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#3 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#6 {main}
+CRITICAL - 2021-03-23 22:57:08 --> Undefined index: iddivisi
+#0 D:\Project Tugas Akhir\pusbinter\app\Controllers\Auth.php(50): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\Project Tuga...', 50, Array)
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Auth->login()
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#3 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#6 {main}
+CRITICAL - 2021-03-23 23:00:05 --> Undefined index: iddivisi
+#0 D:\Project Tugas Akhir\pusbinter\app\Controllers\Auth.php(50): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\Project Tuga...', 50, Array)
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Auth->login()
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#3 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#6 {main}
+CRITICAL - 2021-03-23 23:00:17 --> Undefined index: iddivisi
+#0 D:\Project Tugas Akhir\pusbinter\app\Controllers\Auth.php(50): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\Project Tuga...', 50, Array)
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Auth->login()
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#3 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#6 {main}
+CRITICAL - 2021-03-23 23:00:37 --> Undefined index: iddivisi
+#0 D:\Project Tugas Akhir\pusbinter\app\Controllers\Auth.php(50): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\Project Tuga...', 50, Array)
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Auth->login()
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#3 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#6 {main}
+CRITICAL - 2021-03-23 23:02:38 --> Too few arguments to function App\Controllers\Usulan::update(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Usulan->update()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usulan))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-03-23 23:04:08 --> Too few arguments to function App\Controllers\Usulan::update(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Usulan->update()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usulan))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-03-23 23:06:13 --> Undefined index: id_arsip
+#0 D:\Project Tugas Akhir\pusbinter\app\Models\Usulan_m.php(39): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\Project Tuga...', 39, Array)
+#1 D:\Project Tugas Akhir\pusbinter\app\Controllers\Usulan.php(71): App\Models\Usulan_m->updateUsulan(Array)
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Usulan->update()
+#3 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usulan))
+#4 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#6 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#7 {main}
+CRITICAL - 2021-03-23 23:07:37 --> Too few arguments to function App\Controllers\Usulan::update(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Usulan->update()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usulan))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-03-23 23:10:47 --> Too few arguments to function App\Controllers\Usulan::update(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Usulan->update()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usulan))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-03-23 23:11:45 --> Too few arguments to function App\Controllers\Usulan::update(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Usulan->update()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usulan))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
+CRITICAL - 2021-03-23 23:12:36 --> Too few arguments to function App\Controllers\Usulan::update(), 0 passed in D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php on line 936 and exactly 1 expected
+#0 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(936): App\Controllers\Usulan->update()
+#1 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usulan))
+#2 D:\Project Tugas Akhir\pusbinter\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Project Tugas Akhir\pusbinter\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 D:\Project Tugas Akhir\pusbinter\system\Commands\Server\rewrite.php(45): require_once('D:\\Project Tuga...')
+#5 {main}
